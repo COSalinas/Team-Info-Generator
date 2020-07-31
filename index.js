@@ -161,7 +161,7 @@ async function run() {
     <div class="row">
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Shayla</h4>
+                <h4>Christian</h4>
             </div>
 
             <div class="col card-header">
@@ -170,13 +170,13 @@ async function run() {
 
             <ul class="list-group list-group-flush text">
                 <li class="list-group-item">ID: 1</li>
-                <li class="list-group-item">Email: shayla@gmail.com</li>
+                <li class="list-group-item">Email: Christian@gmail.com</li>
                 <li class="list-group-item">Office Number: 1</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Michelle</h4>
+                <h4>Caleb</h4>
             </div>
 
             <div class="col card-header">
@@ -185,13 +185,13 @@ async function run() {
 
             <ul class="list-group list-group-flush text">
                 <li class="list-group-item">ID: 2</li>
-                <li class="list-group-item">Email: michelle@gmail.com</li>
-                <li class="list-group-item">GitHub: owodu001</li>
+                <li class="list-group-item">Email: Caleb@gmail.com</li>
+                <li class="list-group-item">GitHub: Caleb979</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Andrew</h4>
+                <h4>Norman</h4>
             </div>
 
             <div class="col card-header">
@@ -200,13 +200,13 @@ async function run() {
 
             <ul class="list-group list-group-flush text">
                 <li class="list-group-item">ID: 3</li>
-                <li class="list-group-item">Email: andrew@gmail.com</li>
-                <li class="list-group-item">School: UofM</li>
+                <li class="list-group-item">Email: Norman@gmail.com</li>
+                <li class="list-group-item">School: ULLLS</li>
             </ul>
         </div>
         <div class="card bg-dark justify-content-center align-items-center" style="width: 18rem;">
             <div class="col card-header">
-                <h4>Chelle</h4>
+                <h4>Sherry</h4>
             </div>
 
             <div class="col card-header">
@@ -215,8 +215,8 @@ async function run() {
 
             <ul class="list-group list-group-flush text">
                 <li class="list-group-item">ID: 4</li>
-                <li class="list-group-item">Email: chelle@gmail.com</li>
-                <li class="list-group-item">School: UofM</li>
+                <li class="list-group-item">Email: Sherry@gmail.com</li>
+                <li class="list-group-item">School: UMSC</li>
             </ul>
         </div>
     </div>
